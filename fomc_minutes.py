@@ -29,7 +29,7 @@ from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
 # IMPORTANT: Replace this once with your GitHub username before uploading.
-GITHUB_OWNER = "REPLACE_WITH_YOUR_GITHUB_USERNAME"
+GITHUB_OWNER = "will-j3ff"
 GITHUB_REPOSITORY = "fomc-minutes"
 GITHUB_BRANCH = "main"
 
